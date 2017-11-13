@@ -1,0 +1,23 @@
+== install git
+
+sudo apt-get update
+sudo apt-get install git
+
+mkdir jaarwerk
+cd jaarwerk
+git init
+
+
+git add .
+git commit -m "mijn eerste bestand"
+
+
+Account bij github
+
+
+
+maak ssh-keys
+ssh-keygen
+
+copy idrsa.pub to github ssh-keys
+
