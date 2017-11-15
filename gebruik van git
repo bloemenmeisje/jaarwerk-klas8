@@ -1,0 +1,27 @@
+hoe gebruik ik git
+
+git add .
+
+git status
+
+git commit -m "beetje uitleg"
+
+git push
+
+git pull
+
+hoe kan iemand me iet toesturen
+
+kopieer eens alles naar je eigen computer
+
+git clone
+
+maak dan een nieuwe branch
+
+werk in de nieuwe branch
+
+git checkout
+
+stuur na het aanpassen van de bestanden alles op met 
+
+git push --set upstream <nieuwe branch>
