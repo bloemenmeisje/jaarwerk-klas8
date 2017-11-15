@@ -20,4 +20,4 @@
 
 * https://git-scm.com/book/nl/v1/Aan-de-slag-Het-wat-en-waarom-van-versiebeheer
 
-
+* grappig,grillige en geniale getallen van KJartan Poskitt
