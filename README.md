@@ -1,4 +1,8 @@
-*gebaseerd op de originele mail van Linus Torvalds,``` Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi ´´´found at http://www.linfo.org/linus.html*
+*gebaseerd op de originele mail van Linus Torvalds,*
+``` 
+Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi 
+´´´
+*found at http://www.linfo.org/linus.html*
 
 # jaarwerk-klas8 ( 13 -14-jarige leerlingen )
 
@@ -26,7 +30,11 @@ Fien fien.keersse@gmail.com
 ___
 
 
-*based on Original message from Linus Trovalds,´´´ Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi ´´´found at http://www.linfo.org/linus.html*
+*based on Original message from Linus Trovalds,*
+´´´ 
+Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi 
+´´´
+*found at http://www.linfo.org/linus.html*
 
 
 # yearwork 7th grade ( students 13 and 14 years old )
