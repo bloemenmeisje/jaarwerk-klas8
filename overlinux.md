@@ -11,8 +11,8 @@ werken in een zwart kadertje (terminal)
 
 
 commandos die ik nodig heb (mee leren werken in september en oktober)
-mkdir linus: maak een mapje met de naam linus
-cd linus: ga naar de map linus
-exit: sluit de terminal af
-git: zie naar de pagina gebruik van git
-uname -a: zo kon ik zien welke versie van linux ik gebruik
+- mkdir linus: maak een mapje met de naam linus
+- cd linus: ga naar de map linus
+- exit: sluit de terminal af
+- git: zie naar de pagina gebruik van git
+- uname -a: zo kon ik zien welke versie van linux ik gebruik
