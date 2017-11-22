@@ -10,7 +10,7 @@ Mijn jaarwerk gaat over Linux, Git en de uitvinder Linus Torvalds.
 ```
 
 From: fien.keersse@gmail.com (Fien Keersse)
-To: github: github.com:bloemenmeisje/jaarwerk-klas8.git
+To: github.com:bloemenmeisje/jaarwerk-klas8.git
 Subject: Wat zouden jullie willen lezen/vinden in mijn jaarwerk ?
 Summary: Klein vraagje ivm mijn jaarwerk voor de 8ste klas.
 
@@ -50,7 +50,7 @@ My yearwork is all about Linux, Git and its inventor Linus Torvalds.
 ```
 
 From: fien.keersse@gmail.com (Fien Keersse)
-To: github: github.com:bloemenmeisje/jaarwerk-klas8.git
+To: github.com:bloemenmeisje/jaarwerk-klas8.git
 Subject: What would you like to see most in my yearwork ?
 Summary: Small poll for my yearwork in 8th grade
 
