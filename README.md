@@ -1,4 +1,4 @@
-gebaseerd op de originele mail van Linus Torvalds,*Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi* found at http://www.linfo.org/linus.html
+*gebaseerd op de originele mail van Linus Torvalds,Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi found at http://www.linfo.org/linus.html*
 
 # jaarwerk klas 8 
 (13/14-jarige leerlingen)
@@ -22,6 +22,8 @@ Ik gebruik momenteel Linux en Git en alles werkt echt heel goed. Ik zou graag va
 Alle informatie is welkom. Ik kan jullie wel niet beloven dat ik alle suggesties zal toevoegen of gebruiken. 
 
 Fien fien.keersse@gmail.com
+
+
 ```
 
 ___
@@ -32,7 +34,9 @@ based on Original message from Linus Trovalds,
 found at http://www.linfo.org/linus.html
 
 
-# yearwork 7th grade ( students 13 and 14 years old )
+# yearwork 8th grade 
+(pupils 13/14 years old )
+
 My yearwork is all about Linux, Git and its inventor Linus Torvalds.
 
 
