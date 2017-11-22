@@ -6,7 +6,9 @@
 Mijn jaarwerk gaat over Linux, Git en de uitvinder Linus Torvalds. 
 
 26 jaar later:
+
 ```
+
 From: fien.keersse@gmail.com (Fien Keersse)
 To: Newsgroups: linux.git
 Subject: Wat zouden jullie willen lezen/vinden in mijn jaarwerk ?
@@ -29,9 +31,7 @@ Fien fien.keersse@gmail.com
 ___
 
 
-based on Original message from Linus Trovalds,
-´ Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi ´
-found at http://www.linfo.org/linus.html
+*based on Original message from Linus Trovalds, Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi found at http://www.linfo.org/linus.html*
 
 
 # yearwork 8th grade 
@@ -41,7 +41,9 @@ My yearwork is all about Linux, Git and its inventor Linus Torvalds.
 
 
 26 years later:
+
 ```
+
 From: fien.keersse@gmail.com (Fien Keersse)
 To: Newsgroups: linux.git
 Subject: What would you like to see most in my yearwork ?
@@ -59,5 +61,7 @@ Any suggestions are welcome, but I won't promise I'll implement them :-)
 
 
 Fien fien.keersse@gmail.com
+
+
 ```
 
