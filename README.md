@@ -1,4 +1,4 @@
-*gebaseerd op de originele mail van Linus Torvalds,Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi found at http://www.linfo.org/linus.html*
+gebaseerd op de originele mail van Linus Torvalds,*Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi* found at http://www.linfo.org/linus.html
 
 # jaarwerk-klas8 ( 13 -14-jarige leerlingen )
 
