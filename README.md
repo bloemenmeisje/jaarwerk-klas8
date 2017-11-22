@@ -16,12 +16,17 @@ Summary: Klein vraagje ivm mijn jaarwerk voor de 8ste klas.
 
 Hallo iedereen
 
-Ik werk momenteel aan mijn jaarwerk van de 8ste klas. ( niet echt een hobby, maar wel een verplichte opdracht voor school) Het gaat over Linus Torvalds en zijn uitvindingen. ( Linux en Git ) Het was al wat beginnen borrelen in September, maar ondertussen is de biografie van Linus vorm aan het krijgen.
-Ik zou graag feedback krijgen van jullie over wat jullie goed vinden of net niet goed vinden aan mijn jaarwerk.
+Ik werk momenteel aan mijn jaarwerk van de 8ste klas. ( niet echt een hobby, maar wel een verplichte 
+opdracht voor school) Het gaat over Linus Torvalds en zijn uitvindingen. ( Linux en Git ) Het was al 
+wat beginnen borrelen in September, maar ondertussen is de biografie van Linus vorm aan het krijgen.
+Ik zou graag feedback krijgen van jullie over wat jullie goed vinden of net niet goed vinden aan 
+mijn jaarwerk.
 
-Ik gebruik momenteel Linux (4.4.0-98-generic) en Git (version 2.7.4) en alles werkt echt heel goed. Ik zou graag van jullie willen weten wat nog zinvol/interessant vinden om toe te voegen aan mijn werk.
+Ik gebruik momenteel Linux (4.4.0-98-generic) en Git (version 2.7.4) en alles werkt echt heel goed. 
+Ik zou graag van jullie willen weten wat nog zinvol/interessant vinden om toe te voegen aan mijn werk.
 
-Alle informatie is welkom. Ik kan jullie wel niet beloven dat ik alle suggesties zal toevoegen of gebruiken. 
+Alle informatie is welkom. Ik kan jullie wel niet beloven dat ik alle suggesties zal toevoegen of 
+gebruiken. 
 
 Fien fien.keersse@gmail.com
 
@@ -51,11 +56,14 @@ Summary: Small poll for my yearwork in 8th grade
 
 Hello to everybody out there
 
-I'm working on a yearwork that I have to do in 8th grade. ( not just a hobby, it's an obligated work for school ) It's all about Linus Torvalds and his inventions. ( Linux and Git ) This has been brewing since September and a small part of it is already getting ready. ( biography of Linus Torvalds )
+I'm working on a yearwork that I have to do in 8th grade. ( not just a hobby, it's an obligated work 
+for school ) It's all about Linus Torvalds and his inventions. ( Linux and Git ) This has been brewing 
+since September and a small part of it is already getting ready. ( biography of Linus Torvalds )
 I'd like any feedback on things people like/dislike in my yearwork, resembles it somewhat on my files.
 
 
-I currently use Linux (4.4.0-98-generic) and Git (version 2.7.4) and it works really well. I'd like to know what information/practical bit you would like to see in my yearwork.
+I currently use Linux (4.4.0-98-generic) and Git (version 2.7.4) and it works really well. I'd like 
+to know what information/practical bit you would like to see in my yearwork.
 
 Any suggestions are welcome, but I won't promise I'll implement them :-)
 
