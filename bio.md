@@ -1,12 +1,10 @@
-Volledige naam 	Linus Benedict Torvalds
-Geboren 	Helsinki, 28 december 1969
-Nationaliteit 	Fins van geboorte, genaturaliseerd tot Amerikaan
+ Zijn volledige naam is	Linus Benedict Torvalds,hij is geboren in Helsinki(Finland) op 28 december 1969. Hij wasoorspronklijk Fins van geboorte, maar neutraliseerde zichzelf tot Amerikaan.
 
-is een Fins-Amerikaans informaticus, die het bekendst is vanwege de initiële ontwikkeling van de Linuxkernel* en daar tegenwoordig nog steeds coördinator van is.
+Linus torvalds is een Fins-Amerikaans informaticus, die bekent is geworden vanwege de initiële ontwikkeling van de Linuxkernel*. Hier is hij tegenwoordig nog steeds coördinator van.
 
-Torvalds is een zoon van de journalisten Anna en Nils Torvalds die hem naar Linus Pauling* noemden. Hij behoort tot de Zweedssprekende minderheid in Finland, maar woont sinds 2008 in de Verenigde Staten en heeft zich in 2010 laten naturaliseren tot Amerikaans staatsburger.
+Torvalds is de zoon van de journalisten Anna en Nils Torvalds die hem naar Linus Pauling* vernoemden. Hij behoort tot de Zweedssprekende minderheid in Finland, . Hij woont sinds 2008 in de Verenigde Staten en heeft zich in 2010 laten naturaliseren tot Amerikaans staatsburger.
 
-Torvalds ziet Linux als een hobby; hij had tot juni 2003 een fulltime baan bij Transmeta en vanaf die datum bij OSDL, nu opgegaan in de Linux Foundation. Als iemand vroeg wat hij bij Transmeta precies deed, dan was het antwoord "cool stuff" of gewoon "stuff". Waarschijnlijk werkte hij aan een compiler voor een nieuwe processor. Daarnaast mocht hij van Transmeta ook tijdens kantooruren aan Linux werken.
+ Linus Torvalds ziet Linux als een soort hobby; hij had tot juni 2003 een fulltime baan bij Transmeta en vanaf dan datum bij OSDL, nu opgegaan in de Linux Foundation. Als iemand vroeg wat hij bij Transmeta precies deed, dan was het antwoord "cool stuff" of gewoon "stuff". Waarschijnlijk werkte hij aan een compiler voor een nieuwe processor. Daarnaast mocht hij van Transmeta ook tijdens kantooruren aan Linux werken.
 
 Om bij Transmeta te kunnen werken verhuisde (1997) Torvalds van zijn geboorteland naar Silicon Valley. Samen met zijn echtgenote Tove Monni* heeft hij drie kinderen, die hij geregeld meeneemt naar Linuxcongressen.
 
