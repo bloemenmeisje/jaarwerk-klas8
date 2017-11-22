@@ -5,7 +5,7 @@ gebaseerd op de originele mail van Linus Torvalds, Message-ID: 1991Aug25.205708.
 Mijn jaarwerk gaat over Linux, Git en de uitvinder Linus Torvalds. 
 
 26 jaar later:
-
+```
 From: fien.keersse@gmail.com (Fien Keersse)
 To: Newsgroups: linux.git
 Subject: Wat zouden jullie willen lezen/vinden in mijn jaarwerk ?
@@ -21,7 +21,7 @@ Ik gebruik momenteel Linux en Git en alles werkt echt heel goed. Ik zou graag va
 Alle informatie is welkom. Ik kan jullie wel niet beloven dat ik alle suggesties zal toevoegen of gebruiken. 
 
 Fien fien.keersse@gmail.com
-
+```
 
 --------------------------------------------------------------------------
 
