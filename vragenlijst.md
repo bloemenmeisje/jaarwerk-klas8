@@ -7,3 +7,7 @@ hoeveel kinderen heeft linus Torvalds?
 Waarvoor wordt linux voornamelijk gebruikt?
 
 Wat is GIT?
+
+op welke gedachte is liux gebaseerd?
+
+waarvoor is linux en git gemaakt
