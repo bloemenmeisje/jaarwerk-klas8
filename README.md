@@ -30,7 +30,9 @@ Fien fien.keersse@gmail.com
 ___
 
 
-based on Original message from Linus Trovalds,´ Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi ´found at http://www.linfo.org/linus.html
+based on Original message from Linus Trovalds,
+´ Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi ´
+found at http://www.linfo.org/linus.html
 
 
 # yearwork 7th grade ( students 13 and 14 years old )
