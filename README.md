@@ -1,4 +1,4 @@
-*gebaseerd op de originele mail van Linus Torvalds, Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi found at http://www.linfo.org/linus.html*
+*gebaseerd op de originele mail van Linus Torvalds,``` Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi ´´´found at http://www.linfo.org/linus.html*
 
 # jaarwerk-klas8 ( 13 -14-jarige leerlingen )
 
@@ -23,14 +23,14 @@ Alle informatie is welkom. Ik kan jullie wel niet beloven dat ik alle suggesties
 Fien fien.keersse@gmail.com
 ```
 
---------------------------------------------------------------------------
+___
 
-*based on Original message from Linus Trovalds, Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi found at http://www.linfo.org/linus.html*
+
+*based on Original message from Linus Trovalds,´´´ Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi ´´´found at http://www.linfo.org/linus.html*
 
 
 # yearwork 7th grade ( students 13 and 14 years old )
 My yearwork is all about Linux, Git and its inventor Linus Torvalds.
-This page is based upon the original mail of Linus to spread his very first version of Linux.
 
 
 26 years later:
