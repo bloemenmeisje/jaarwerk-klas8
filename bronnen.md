@@ -2,7 +2,7 @@
 
 * https://nl.wikipedia.org/wiki/Linus_Torvalds
 * http://www.linfo.org/linus.html
-* Boek: Linus Torvalds, het genie achter Linus - Gewoon voor de Fun
+* Boek: Linus Torvalds, het genie achter Linus - Gewoon voor de Fun (https://en.wikipedia.org/wiki/Linus_Torvalds#Bibliography)
 
 ### Linux en Open Source
 
