@@ -1,10 +1,10 @@
-== Linus Torvalds
+### Linus Torvalds
 
 * https://nl.wikipedia.org/wiki/Linus_Torvalds
 
 * http://www.linfo.org/linus.html
 
-== Linux en Open Source
+### Linux en Open Source
 
 * http://www.linfo.org/index.html
 
@@ -16,7 +16,7 @@
 
 * https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg
 
-== Git
+### Git
 
 * https://git-scm.com/book/nl/v1/Aan-de-slag-Het-wat-en-waarom-van-versiebeheer
 
