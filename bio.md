@@ -1,4 +1,4 @@
-==Biografie van Linux Torvalds
+= Biografie van Linux Torvalds
 
 Zijn volledige naam is	Linus Benedict Torvalds,hij is geboren in Helsinki(Finland) op 28 december 1969. Hij was oorspronklijk Fins van geboorte, maar neutraliseerde zichzelf tot Amerikaan.
 
