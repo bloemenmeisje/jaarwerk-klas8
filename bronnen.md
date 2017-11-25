@@ -19,6 +19,7 @@
 ### Git
 
 * https://git-scm.com/book/nl/v1/Aan-de-slag-Het-wat-en-waarom-van-versiebeheer
+* https://guides.github.com/features/mastering-markdown/
 
 ### beveiliging
 
