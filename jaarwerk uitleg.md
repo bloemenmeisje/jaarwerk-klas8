@@ -116,7 +116,8 @@ Je maakt aan de hand van de inhoud  jouw eigen inhoudstafel waar je de paginanum
 
 Tijdens ICT- en PO lessen kan je steeds tips en begeleiding vragen rond lay-out en illustratie.
 
-> De definitieve versie van het jaarwerk (Hierin komen deelA,Ben C, voorwoord en nawoord dus samen) geef je met jouw werkboek af > 
+> De definitieve versie van het jaarwerk (Hierin komen deelA,Ben C, voorwoord en nawoord dus samen) geef je met jouw werkboek af
+>
 > ten laatste   .../05/2018
 
 #### VEEL SUCCES
