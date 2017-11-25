@@ -1,18 +1,69 @@
-# jaarwerk-klas8
-mijn jaarwerk gaat over Linux, Git en de uitvinder Linus Torvalds
+*gebaseerd op de originele mail van Linus Torvalds,Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi gevonden op http://www.linfo.org/linus.html*
+
+# jaarwerk klas 8 
+(13/14-jarige leerlingen)
+
+Mijn jaarwerk gaat over Linux, Git en de uitvinder Linus Torvalds. 
 
 26 jaar later:
 
+```
+
 From: fien.keersse@gmail.com (Fien Keersse)
-To: Newsgroups: linux.git
-Subject: What would you like to see most in mijn jaarwerk?
-Summary: small poll for my jaarwerk voor klas8
+To: github.com:bloemenmeisje/jaarwerk-klas8.git
+Subject: Wat zouden jullie willen lezen/vinden in mijn jaarwerk ?
+Summary: Klein vraagje ivm mijn jaarwerk voor de 8ste klas.
 
-Hello everybody out there die iets wil weten over Linus
+Hallo iedereen
 
-I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386 (486) AT clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-sytem due to practical reasons)among other things.
+Ik werk momenteel aan mijn jaarwerk van de 8ste klas. (niet echt een hobby, maar wel een verplichte 
+opdracht voor school) Het gaat over Linus Torvalds en zijn uitvindingen. (Linux en Git) Het was al 
+wat beginnen borrelen in September, maar ondertussen is de biografie van Linus vorm aan het krijgen.
+Ik zou graag feedback krijgen van jullie over wat jullie goed vinden of net niet goed vinden aan 
+mijn jaarwerk.
 
-I've currently ported bash (1.08) an gcc (1.40), and things seem to work. This implies that i'll get something practical within a few months, and I'd like to know what features most people want.
+Ik gebruik momenteel Linux (4.4.0-98-generic) en Git (version 2.7.4) en alles werkt echt heel goed. 
+Ik zou graag van jullie willen weten wat nog zinvol/interessant vinden om toe te voegen aan mijn werk.
+
+Alle informatie is welkom. Ik kan jullie wel niet beloven dat ik alle suggesties zal toevoegen of 
+gebruiken :-)
+
+Fien fien.keersse@gmail.com
+
+
+```
+
+___
+
+
+*based on Original message from Linus Trovalds, Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi found at http://www.linfo.org/linus.html*
+
+
+# yearwork 8th grade 
+(pupils 13/14 years old )
+
+My yearwork is all about Linux, Git and its inventor Linus Torvalds.
+
+
+26 years later:
+
+```
+
+From: fien.keersse@gmail.com (Fien Keersse)
+To: github.com:bloemenmeisje/jaarwerk-klas8.git
+Subject: What would you like to see most in my yearwork ?
+Summary: Small poll for my yearwork in 8th grade
+
+Hello to everybody out there
+
+I'm working on a yearwork that I have to do in 8th grade. (not just a hobby, it's an obligated work 
+for school) It's all about Linus Torvalds and his inventions. (Linux and Git) This has been brewing 
+since September and a small part of it is already getting ready. (biography of Linus Torvalds)
+I'd like any feedback on things people like/dislike in my yearwork, resembles it somewhat on my files.
+
+
+I currently use Linux (4.4.0-98-generic) and Git (version 2.7.4) and it works really well. I'd like 
+to know what information/practical bit you would like to see in my yearwork.
 
 Any suggestions are welcome, but I won't promise I'll implement them :-)
 
@@ -20,5 +71,5 @@ Any suggestions are welcome, but I won't promise I'll implement them :-)
 Fien fien.keersse@gmail.com
 
 
+```
 
-Original message from Linus Trovalds, Message-ID: 1991Aug25.205708.9541@klaava.helsinki.fi found at http://www.linfo.org/linus.html

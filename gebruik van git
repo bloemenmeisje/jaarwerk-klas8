@@ -25,3 +25,7 @@ git checkout
 stuur na het aanpassen van de bestanden alles op met 
 
 git push --set upstream <nieuwe branch>
+
+de nr van het programma git
+
+git --version
