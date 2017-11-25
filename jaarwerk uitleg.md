@@ -57,7 +57,7 @@ b. je zoekt uit welke illustraties je kan gebruiken bij je biografie.
 
 Plan in jouw agenda om systematisch aan de biografie te  werken! Vergeet niet om tussendoor ook al de andere informatie in het werkboek te blijven verzamelen.
 
-## 2. de uitvinding
+## 2. De uitvinding
 
 Je moet van naaldje tot draadje uitleggen en verduidelijken hoe de techniek werkt.
 * benoem hiervoor alle onderdelen en duid ze aan  op zelfgemaakte tekeningen
