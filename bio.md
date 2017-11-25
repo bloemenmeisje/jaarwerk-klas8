@@ -29,5 +29,5 @@ Bronnen:
 
 
 
-- Git is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwarebroncode-managementproject genoemd. De nadruk ligt op snelheid. Git is oorspronkelijk gemaakt door Linus Torvalds voor de ontwikkeling van de Linuxkernel.
+*Git is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwarebroncode-managementproject genoemd. De nadruk ligt op snelheid. Git is oorspronkelijk gemaakt door Linus Torvalds voor de ontwikkeling van de Linuxkernel.*
 
