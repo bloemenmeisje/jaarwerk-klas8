@@ -14,7 +14,7 @@ Vanuit jouw interesses en kwaliteiten ga je even brainstormen. je focust steeds 
 
 Alles wat je denkt, doet, voelt, ziet, hoort, proeft, leest, maakt, droomt, wat betreft jouw thema, schrijf, teken of kleef je in jouw werkboek of ringmap. Ook het kladwerk dat je ter voorbereiding zal maken, komt in het boek of ringmap. Dus geen los papierwerk maar alles gebundeld. Noteer telkens de datum wanneer je in het boek/ringmap werkt.
 
-## informatie vezamelen:
+## informatie verzamelen:
 
 1. Je zoekt een goed boek in de bibliotheek, stelt vragen aan je mentor en/of je zoekt informatie van jouw thema op via internet. Vergeet vooral niet al jouw gebruikte bronnen te vermelden!
 
