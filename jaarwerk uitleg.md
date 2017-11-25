@@ -1,6 +1,6 @@
 # Jaarwerk Klas 8
 
-** thema: Uitvindingen **
+**thema: Uitvindingen**
 
 ## De Mentor 
 *Als je een uitvinder hebt gekozen en hierbij de goedkeuring kreeg van de leerkracht ga je best ook op zoek naar een mentor die jou bij het practische deel kan helpen.Dit is iemand bij een passie heeft voor de technische kant van de uitvinding die jij gekozen hebt.Deze persoon is voor zijn beroep of passie intens bezig met de uitvinding bezig en kan jou heel wat leren en vertellen over jouw gekozen onderwerp.Hoe groter de inspiratie van de mentor kan zijn hoe krachtiger dat jouw jaarwerk inhoudelijk kan worden.Daarnaast blijft de leerkracht de obouw van jouw jaarwerk van dichtbij opvolgen.*
@@ -133,7 +133,7 @@ de volgorde waarin de gegevens gepresenteerd worden is bij alle systemen hetzelf
  * Artikel : naam krant/tijdschrift, datum, pagina
  * Webgegevens : volledige URL en datum of 'geraadpleegd op datum'
 
-** Twee voorbeelden: **
+**Twee voorbeelden:**
 
 * In de krant : ACHTERNAAM Voornaam, Het gele gevaar, in : De Standaaerd, 13 oktober 2005, pag. 6
 
