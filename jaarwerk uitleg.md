@@ -30,6 +30,8 @@ Alles wat je denkt, doet, voelt, ziet, hoort, proeft, leest, maakt, droomt, wat 
   
 # Deel B: De uitvinding
 
+*Een levensverhaal en de technische uitleg*
+
 ## 1. Biografie
 a. Je schrijft een korte biografie over jouw mentor of uitvinder die aan de grond van jou thema ligt.
 * vertel het levensverhaal van de uitvinder. (geboorte, opgroeien, studies en passies, invloed maatschappij, sterven)
