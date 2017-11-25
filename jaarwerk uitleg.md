@@ -39,11 +39,11 @@ a) Je schrijft een korte biografie over jouw mentor of uitvinder die aan de gron
 b) je zoekt uit welke illustraties je kan gebruiken bij je biografie.
 Welke stijl van illustreren past bij jouw thema? Welke technieken heb je zelfs onder de knie en kan je dan ook zorgzaam en precies toepassen? Wees hierbij creatief en ga desnoods inspiratie zoeken in de bib.
 Je voegt minstens 2 illustraties in de biografie.
-'''
-Geef het werkboek met de kladversie van jou biografie af op:
 
-01/12/2017
-'''
+> Geef het werkboek met de kladversie van jou biografie af op:
+> 
+> 01/12/2017
+
 
 Plan in jouw agenda om systematisch aan de biografie te  werken! Vergeet niet om tussendoor ook al de andere informatie in het werkboek te blijven verzamelen
 
