@@ -1,5 +1,5 @@
 
-Biografie van Linux Torvalds
+# Biografie van Linux Torvalds
 
 Zijn volledige naam is Linus Benedict Torvalds. Hij werd geboren in Helsinki in Finland op 28 december 1969. 
 Hij was dus oorspronkelijk Fins van geboorte, maar hij woont sinds 1997 in de Verenigde Staten en heeft zich in 2010 laten naturaliseren tot Amerikaans staatsburger.
@@ -22,13 +22,12 @@ Op 20 april 2012 werd linus Torvalds uitgeroepen tot één van de twee winnaars 
 Linus Torvalds is niet alleen de uitvinder van Linux, Git is zijn tweede uitvinding. Deze twee uitvindingen waren baanbrekend in de computerwereld en veranderen de wereld nog steeds, nog elke dag opnieuw.
 
 
-
-bron: https://nl.wikipedia.org/wiki/Linus_Torvalds
-
-bron : Boek : Linus Torvalds, het genie achter Linus - Gewoon voor de Fun
-
+Bronnen:
+- https://nl.wikipedia.org/wiki/Linus_Torvalds
+- Boek : Linus Torvalds, het genie achter Linus - Gewoon voor de Fun
 
 
 
-*Git is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwarebroncode-managementproject genoemd. De nadruk ligt op snelheid. Git is oorspronkelijk gemaakt door Linus Torvalds voor de ontwikkeling van de Linuxkernel.
+
+*\*Git is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwarebroncode-managementproject genoemd. De nadruk ligt op snelheid. Git is oorspronkelijk gemaakt door Linus Torvalds voor de ontwikkeling van de Linuxkernel.*
 
