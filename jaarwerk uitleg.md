@@ -120,7 +120,7 @@ Tijdens ICT- en PO lessen kan je steeds tips en begeleiding vragen rond lay-out 
 >
 > ten laatste   .../05/2018
 
-** VEEL SUCCES **
+**VEEL SUCCES**
 
 ### hoe bronnen vermelden?
 
