@@ -3,7 +3,7 @@
 **thema: Uitvindingen**
 
 ## De Mentor 
-*Als je een uitvinder hebt gekozen en hierbij de goedkeuring kreeg van de leerkracht ga je best ook op zoek naar een mentor die jou bij het practische deel kan helpen.Dit is iemand bij een passie heeft voor de technische kant van de uitvinding die jij gekozen hebt.Deze persoon is voor zijn beroep of passie intens bezig met de uitvinding bezig en kan jou heel wat leren en vertellen over jouw gekozen onderwerp.Hoe groter de inspiratie van de mentor kan zijn hoe krachtiger dat jouw jaarwerk inhoudelijk kan worden.Daarnaast blijft de leerkracht de obouw van jouw jaarwerk van dichtbij opvolgen.*
+*Als je een uitvinder hebt gekozen en hierbij de goedkeuring kreeg van de leerkracht ga je best ook op zoek naar een mentor die jou bij het praktische deel kan helpen. Dit is iemand bij een passie heeft voor de technische kant van de uitvinding die jij gekozen hebt. Deze persoon is voor zijn beroep of passie intens bezig met de uitvinding bezig en kan jou heel wat leren en vertellen over jouw gekozen onderwerp. Hoe groter de inspiratie van de mentor kan zijn hoe krachtiger dat jouw jaarwerk inhoudelijk kan worden. Daarnaast blijft de leerkracht de opbouw van jouw jaarwerk van dichtbij opvolgen.*
 
 
 # deel A: Het dagelijks werkboek
