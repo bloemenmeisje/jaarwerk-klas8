@@ -1,4 +1,5 @@
-Linus Torvalds is een Fins-Amerikaans informaticus.
+
+Biografie van Linux Torvalds
 
 Zijn volledige naam is Linus Benedict Torvalds. Hij werd geboren in Helsinki in Finland op 28 december 1969. 
 Hij was dus oorspronkelijk Fins van geboorte, maar hij woont sinds 1997 in de Verenigde Staten en heeft zich in 2010 laten naturaliseren tot Amerikaans staatsburger.
