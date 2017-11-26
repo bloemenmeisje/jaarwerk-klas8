@@ -21,6 +21,9 @@ Op 20 april 2012 werd linus Torvalds uitgeroepen tot één van de twee winnaars 
 
 Linus Torvalds is niet alleen de uitvinder van Linux, Git is zijn tweede uitvinding. Deze twee uitvindingen waren baanbrekend in de computerwereld en veranderen de wereld nog steeds, nog elke dag opnieuw.
 
+Tegenwoordig woont en leeft Linus Torvalds nog steeds in Portland in de staat Oregon.Dit is een grote stad, gelegen in het NW van de VS. 
+
+
 
 Bronnen:
 - https://nl.wikipedia.org/wiki/Linus_Torvalds
