@@ -10,4 +10,6 @@ Wat is GIT?
 
 op welke gedachte is liux gebaseerd?
 
-waarvoor is linux en git gemaakt
+waarvoor is linux en git gemaakt?
+
+Wie heeft linux uitgevonden?
