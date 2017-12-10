@@ -1,0 +1,261 @@
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="slideshow.css">
+
+<style>
+
+/*
+Place a filled circle on the history line at the relative position
+of the events start date.
+The %s is replaced with one row for each event to display.
+The div classname contains the event sequence number like this:
+     div.position_in_history_8 { ... }
+For each row, there is a corresponding div tag defined in the body
+of this page like:
+     <div class="position_in_history_8"/>
+
+*/
+div.position_in_history_1 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 2%
+}
+
+div.position_in_history_2 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 35%
+}
+
+div.position_in_history_3 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 37%
+}
+
+div.position_in_history_4 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 41%
+}
+
+div.position_in_history_5 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 41%
+}
+
+div.position_in_history_6 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 42%
+}
+
+div.position_in_history_7 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 42%
+}
+
+div.position_in_history_8 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 46%
+}
+
+div.position_in_history_9 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 52%
+}
+
+div.position_in_history_10 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 53%
+}
+
+div.position_in_history_11 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 54%
+}
+
+div.position_in_history_12 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 54%
+}
+
+div.position_in_history_13 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 57%
+}
+
+div.position_in_history_14 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 61%
+}
+
+div.position_in_history_15 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 66%
+}
+
+div.position_in_history_16 {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #66CDAA;
+    position: fixed;
+    top: 10px;
+    left: 92%
+}
+
+
+/*
+A filled circle placed at the history line at the relative
+position of the event displayed in this page
+*/
+div.position_in_history {
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    background-color: #e085c2;
+    position: fixed;
+    top: 7px;
+    left: 41%;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Time and title box
+The %s is replaced with the time period and the text for the event.
+-->
+<center><p id="titlebox">1 Sep 1990</br>leren van C (programmeertaal)</p></center>
+
+<!-- Image and description boxes
+The %s is replaced with the event icon and the event description text.
+If the event don't have an image, only the description text is displayed.
+-->
+
+<div id="only_description"></div>
+
+
+<!-- Left navigation button -->
+<div class="left">
+<a href="page_3.html" class="button">&lt&lt</a>
+</div>
+
+<!-- Right navigation button -->
+<div class="right">
+<a href="page_5.html" class="button">&gt&gt</a>
+</div>
+
+<!-- Timeline icon -->
+<div class="timeline_icon">
+<img src="32.png">
+</div>
+
+<!-- History Line
+Display a line that represents the time span from the start time of the
+first event to the start time of the last event.
+-->
+<div class="history_line"/>
+
+<!-- Position in history
+  Display a filled circle on the history line at the relative position
+  of the events start date.
+  The %s is replaced with one row for each event to display.
+  The div classname contains the event sequence number like this:
+     <div class="position_in_history_8"/>
+  For each row, there is a corresponding style defined in the head
+  of this page like:
+     div.position_in_history_8 { ... }
+-->
+<div class="position_in_history_1"/>
+<div class="position_in_history_2"/>
+<div class="position_in_history_3"/>
+<div class="position_in_history_4"/>
+<div class="position_in_history_5"/>
+<div class="position_in_history_6"/>
+<div class="position_in_history_7"/>
+<div class="position_in_history_8"/>
+<div class="position_in_history_9"/>
+<div class="position_in_history_10"/>
+<div class="position_in_history_11"/>
+<div class="position_in_history_12"/>
+<div class="position_in_history_13"/>
+<div class="position_in_history_14"/>
+<div class="position_in_history_15"/>
+<div class="position_in_history_16"/>
+
+<div class="position_in_history"/>
+</body>
+</html>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>1.16.0 (400493e48573 2017-11-13)</version>
+  <timetype>gregoriantime</timetype>
+  <categories>
+    <category>
+      <name>Linus Torvalds</name>
+      <color>128,0,128</color>
+      <progress_color>173,216,230</progress_color>
+      <done_color>30,144,255</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>Linux</name>
+      <color>255,255,0</color>
+      <progress_color>255,165,0</progress_color>
+      <done_color>139,105,20</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Jaarwerk Klas 8</name>
+      <color>0,128,0</color>
+      <progress_color>144,238,144</progress_color>
+      <done_color>191,191,191</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+  </categories>
+  <events>
+    <event>
+      <start>2017-09-11 00:00:00</start>
+      <end>2018-05-30 00:00:00</end>
+      <text>[4]Jaarwerk klas 8 - Linus Torvald, Linux en Git</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Jaarwerk Klas 8</category>
+    </event>
+    <event>
+      <start>1969-12-28 00:00:00</start>
+      <end>1969-12-28 00:00:00</end>
+      <text>geboorte van</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1987-09-13 00:00:00</start>
+      <end>1987-09-13 00:00:00</end>
+      <text>aankoop eerste computer</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1988-09-16 00:00:00</start>
+      <end>1988-09-16 00:00:00</end>
+      <text>naar de universiteit van Helsinki</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1990-09-01 00:00:00</start>
+      <end>1990-09-01 00:00:00</end>
+      <text>leren van C (programmeertaal)</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1991-03-01 00:00:00</start>
+      <end>1991-03-01 00:00:00</end>
+      <text>werken met IBM compatible</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1991-08-25 00:00:00</start>
+      <end>1991-08-25 00:00:00</end>
+      <text>initiele linux</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linux</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1991-09-17 00:00:00</start>
+      <end>1991-09-17 00:00:00</end>
+      <text>versie 0.0.1</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linux</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1993-06-29 00:00:00</start>
+      <end>1993-06-29 00:00:00</end>
+      <text>maakt kennis met Tove (zijn toekomstige echtgenote)</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1996-12-02 23:30:00</start>
+      <end>1996-12-02 23:30:00</end>
+      <text>geboorte van zijn eerste dochter</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1997-06-16 00:00:00</start>
+      <end>1997-06-16 00:00:00</end>
+      <text>Linux versie 2.0</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linux</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1997-10-27 00:00:00</start>
+      <end>1997-10-27 00:00:00</end>
+      <text>verhuist naar Amerika Gaat werken voor Transmeta</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1998-01-01 00:00:00</start>
+      <end>1998-01-01 00:00:00</end>
+      <text>Meer dan 3 millioen Linux computers</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linux</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1999-06-05 00:00:00</start>
+      <end>1999-06-05 00:00:00</end>
+      <text>meer dan 7 millioen Linux computers</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linux</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2001-06-30 00:00:00</start>
+      <end>2001-06-30 00:00:00</end>
+      <text>oprichting OSDL (Open Source Development Lab)</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2004-03-09 00:00:00</start>
+      <end>2004-03-09 00:00:00</end>
+      <text>verhuist naar Portland Gaat full-time werken voor OSDL</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Linus Torvalds</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2017-09-11 00:00:00</start>
+      <end>2018-05-30 00:00:00</end>
+      <text>(4)Jaarwerk Fien</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Jaarwerk Klas 8</category>
+      <default_color>211,211,211</default_color>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>1963-12-12 23:57:42</start>
+      <end>2064-07-19 05:14:39</end>
+    </displayed_period>
+    <hidden_categories>
+    </hidden_categories>
+  </view>
+</timeline>
