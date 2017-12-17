@@ -24,12 +24,26 @@
       <done_color>191,191,191</done_color>
       <font_color>0,0,0</font_color>
     </category>
+    <category>
+      <name>Git</name>
+      <color>255,0,0</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Jaarwerk</name>
+      <color>0,0,255</color>
+      <progress_color>173,216,230</progress_color>
+      <done_color>30,144,255</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
   </categories>
   <events>
     <event>
       <start>2017-09-11 00:00:00</start>
       <end>2018-05-30 00:00:00</end>
-      <text>[4]Jaarwerk klas 8 - Linus Torvald, Linux en Git</text>
+      <text>[5]Jaarwerk klas 8 - Linus Torvald, Linux en Git</text>
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
@@ -203,21 +217,118 @@
     <event>
       <start>2017-09-11 00:00:00</start>
       <end>2018-05-30 00:00:00</end>
-      <text>(4)Jaarwerk Fien</text>
+      <text>(5)Jaarwerk Fien</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Jaarwerk Klas 8</category>
+      <category>Jaarwerk</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2005-05-07 00:00:00</start>
+      <end>2005-05-07 00:00:00</end>
+      <text>Eerste versie van Git</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Git</category>
+      <description>Git is een versiebeheersysteem. Git is oorspronkelijk gemaakt door Linus Torvalds voor de ontwikkeling van de Linuxkernel.</description>
+      <hyperlink>https://nl.wikipedia.org/wiki/Git_(software);https://git-scm.com/book/nl/v1/Aan-de-slag-Het-wat-en-waarom-van-versiebeheer</hyperlink>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2008-02-08 00:00:00</start>
+      <end>2008-02-08 00:00:00</end>
+      <text>Onstaan van Github</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Git</category>
+      <description>GitHub is een populaire website waarop software kan geplaatst worden. GitHub is gebouwd rond het Git-versiebeheersysteem, waardoor GitHub alle mogelijkheden van Git en eigen toevoegingen aanbiedt.</description>
+      <hyperlink>https://nl.wikipedia.org/wiki/GitHub;https://github.com/</hyperlink>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2009-06-05 00:00:00</start>
+      <end>2009-06-05 00:00:00</end>
+      <text>100.000 gebruikers van Github</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Git</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2010-07-24 00:00:00</start>
+      <end>2010-07-24 00:00:00</end>
+      <text>1 miljoen repositories</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Git</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2011-04-20 06:29:00</start>
+      <end>2011-04-20 06:29:00</end>
+      <text>2 miljoen repositories</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Git</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2013-01-14 00:00:00</start>
+      <end>2013-01-14 00:00:00</end>
+      <text>5 miljoen repositories</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Git</category>
+      <description>en 3 miljoen gebruikers</description>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2013-12-23 00:00:00</start>
+      <end>2013-12-23 00:00:00</end>
+      <text>10 miljoen repositories</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Git</category>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2017-12-07 00:00:00</start>
+      <end>2017-12-07 00:00:00</end>
+      <text>Vermelding op twitter</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Jaarwerk</category>
+      <description>Door Jan Collijs van Inuits</description>
       <default_color>211,211,211</default_color>
     </event>
   </events>
   <view>
     <displayed_period>
-      <start>1963-12-12 23:57:42</start>
-      <end>2064-07-19 05:14:39</end>
+      <start>1997-11-26 15:04:41</start>
+      <end>2021-03-27 15:36:32</end>
     </displayed_period>
     <hidden_categories>
+      <name>Linus Torvalds</name>
+      <name>Linux</name>
+      <name>Jaarwerk Klas 8</name>
     </hidden_categories>
   </view>
 </timeline>
