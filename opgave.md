@@ -1,3 +1,5 @@
+[Home](README.md) | [Biografie](bio.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md)
+
 # Jaarwerk Klas 8
 
 **thema: Uitvindingen**
