@@ -1,3 +1,5 @@
+[Bio](Bio)
+
 *gebaseerd op de originele mail van Linus Torvalds,Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi gevonden op http://www.linfo.org/linus.html*
 
 # jaarwerk klas 8 
