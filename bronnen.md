@@ -1,3 +1,5 @@
+[Home](README.md) | [Biografie](bio.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md)
+
 ### Linus Torvalds
 
 * https://nl.wikipedia.org/wiki/Linus_Torvalds
