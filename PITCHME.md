@@ -1,7 +1,6 @@
-# White
+# Linus Trovalds 
 
-### A GitPitch Presentation Template
-
+### Een verhaal over Linus, linux en Git
 ---
 
 ## Tips!
