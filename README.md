@@ -1,4 +1,6 @@
-[Home](README.md) | [Biografie](bio.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md) |  [Presentatie](https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master?target=_blank)
+[Home](README.md) | [Biografie](bio.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md) |  [Presentatie] <a target='_blank' href="https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master"> 
+  
+  (https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master?target=_blank)
 
 *gebaseerd op de originele mail van Linus Torvalds,Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi gevonden op http://www.linfo.org/linus.html*
 
