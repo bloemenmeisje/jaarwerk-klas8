@@ -7,9 +7,9 @@
 
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+@fa[arrows gp-tip](Druk op F voor een volledig scherm)
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
+@fa[microphone gp-tip](Druk op S voor notities)
 
 ---
 
