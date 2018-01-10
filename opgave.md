@@ -141,4 +141,4 @@ de volgorde waarin de gegevens gepresenteerd worden is bij alle systemen hetzelf
 
 * In de krant : ACHTERNAAM Voornaam, Het gele gevaar, in : De Standaaerd, 13 oktober 2005, pag. 6
 
-* 0p het internet : ACHTERNAAm Voornaam, Hoe schrijf ik een paper of essay, URL: http://educatie-en-school-infornu.nl/methodiek/55883-hoe-schrijf-ik-een-essay-of-een-paper,html,geraadplegd op 1 juni 2010
+* 0p het internet : ACHTERNAAM Voornaam, Hoe schrijf ik een paper of essay, URL: http://educatie-en-school-infornu.nl/methodiek/55883-hoe-schrijf-ik-een-essay-of-een-paper, html, geraadpleegd op 1 juni 2010
