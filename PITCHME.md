@@ -28,3 +28,8 @@
 - 2003 een fulltime baan bij Transmeta |
 - 2012 één van de twee winnaars van de Millennium Technology Prize |
 
+---
+
+## Git
+
+![](figuren/Git-Logo-2Color.png)
