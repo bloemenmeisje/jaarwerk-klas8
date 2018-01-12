@@ -20,6 +20,7 @@
 ### Git
 
 * https://git-scm.com/book/nl/v1/Aan-de-slag-Het-wat-en-waarom-van-versiebeheer
+* https://help.github.com/articles/connecting-to-github-with-ssh/
 * https://guides.github.com/features/mastering-markdown/
 * https://pages.github.com/
 * https://jekyllrb.com/
