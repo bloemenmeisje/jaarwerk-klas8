@@ -32,4 +32,4 @@
 
 ## Git
 
-![](figuren/Git-Logo-2Color.png)
+![](figuren/github-social-coding.jpg)
