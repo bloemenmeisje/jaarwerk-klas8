@@ -2,7 +2,7 @@
 
 ### Een verhaal over Linus, linux en Git
 
-![](figuren/Linus-Torvalds.jpg)
+![](figuren/Linus_workdesk.jpg)
 
 ---
 
