@@ -1,15 +1,16 @@
-hoe kan ik linux best omschrijven voor mijn klasgenoten (13-14 jarige) ?
+Naam:
+bedrijf/Firma:
+functie:
 
-hoeveel kinderen heeft linus Torvalds?
-
-3 kinderen
 
 Waarvoor wordt linux voornamelijk gebruikt?
 
-Wat is GIT?
+Hebt u linus torvalds ontmoet ? Zoja wat voor iemand is hij?
 
-op welke gedachte is liux gebaseerd?
+Hoeveel maakt u gebruik van zijn uitvindingen,Linux,Git ?
 
-waarvoor is linux en git gemaakt?
+Hoeveel jaren ervaring  hebt u op het vlak van Linux en Git?
 
-Wie heeft linux uitgevonden?
+Maakt het bedrijf waar u werkzaam bent gebruik van deze uitvindingen?
+
+hoe kan ik git best omschrijven voor mijn klasgenoten (13-14 jarige) ?
