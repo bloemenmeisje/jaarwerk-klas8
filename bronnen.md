@@ -4,6 +4,8 @@
 
 * https://nl.wikipedia.org/wiki/Linus_Torvalds
 * http://www.linfo.org/linus.html
+* https://plus.google.com/+LinusTorvalds
+* https://itsfoss.com/linus-torvalds-facts/
 * Boek: Linus Torvalds, het genie achter Linus - Gewoon voor de Fun (https://en.wikipedia.org/wiki/Linus_Torvalds#Bibliography)
 
 ### Linux en Open Source
@@ -12,12 +14,18 @@
 * https://nl.wikipedia.org/wiki/Linux
 * https://www.nllgg.nl/linux/wat-is-linux
 * https://www.nllgg.nl/linux/open-source-software
+* https://itsfoss.com/facts-linux-kernel/
 * https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg
 
 ### Git
 
 * https://git-scm.com/book/nl/v1/Aan-de-slag-Het-wat-en-waarom-van-versiebeheer
 * https://guides.github.com/features/mastering-markdown/
+* https://pages.github.com/
+* https://jekyllrb.com/
+* https://github.com/schacon/git-presentations
+* https://slides.com/moji3000/git_presentation/fullscreen#/15
+* https://gitpitch.com/
 
 ### beveiliging
 
