@@ -6,14 +6,14 @@
 **thema: Uitvindingen**
 
 ## De Mentor 
-*Als je een uitvinder hebt gekozen en hierbij de goedkeuring kreeg van de leerkracht ga je best ook op zoek naar een mentor die jou bij het praktische deel kan helpen. Dit is iemand bij een passie heeft voor de technische kant van de uitvinding die jij gekozen hebt. Deze persoon is voor zijn beroep of passie intens bezig met de uitvinding bezig en kan jou heel wat leren en vertellen over jouw gekozen onderwerp. Hoe groter de inspiratie van de mentor kan zijn hoe krachtiger dat jouw jaarwerk inhoudelijk kan worden. Daarnaast blijft de leerkracht de opbouw van jouw jaarwerk van dichtbij opvolgen.*
+*Als je een uitvinder hebt gekozen en hierbij de goedkeuring kreeg van de leerkracht ga je best ook op zoek naar een mentor die jou bij het praktische deel kan helpen. Dit is iemand die een passie heeft voor de technische kant van de uitvinding die jij gekozen hebt. Deze persoon is voor zijn beroep of passie intens bezig met de uitvinding en kan jou heel wat leren en vertellen over jouw gekozen onderwerp. Hoe groter de inspiratie van de mentor kan zijn hoe krachtiger dat jouw jaarwerk inhoudelijk kan worden. Daarnaast blijft de leerkracht de opbouw van jouw jaarwerk van dichtbij opvolgen.*
 
 
 # deel A: Het dagelijks werkboek
 
 ## Algemeen:
 
-Vanuit jouw interesses en kwaliteiten ga je even brainstormen. je focust steeds kleiner tot je je thema hebt dat aanvoelt als een deel van jou op dit moment. Het moet een thema zijn waar je je meerdere keer per maand mee bezig bent!Als dit niet zo is  dan kan je in de loop van het schooljaar jouw interesse voor het thema verliezen en wordt het jaarwerk een zware opdracht i.p.v een groot plezier in jouw leven.
+Vanuit jouw interesses en kwaliteiten ga je even brainstormen. Je focust steeds kleiner tot je je thema hebt dat aanvoelt als een deel van jou op dit moment. Het moet een thema zijn waar je meerdere keer per maand mee bezig bent! Als dit niet zo is  dan kan je in de loop van het schooljaar jouw interesse voor het thema verliezen en wordt het jaarwerk een zware opdracht i.p.v een groot plezier in jouw leven.
 
 Alles wat je denkt, doet, voelt, ziet, hoort, proeft, leest, maakt, droomt, wat betreft jouw thema, schrijf, teken of kleef je in jouw werkboek of ringmap. Ook het kladwerk dat je ter voorbereiding zal maken, komt in het boek of ringmap. Dus geen los papierwerk maar alles gebundeld. Noteer telkens de datum wanneer je in het boek/ringmap werkt.
 
@@ -23,7 +23,7 @@ Alles wat je denkt, doet, voelt, ziet, hoort, proeft, leest, maakt, droomt, wat 
 
 2. Deze informatie verzamel je in jouw werkboek. Indien je toch een bundeltje hebt dat veel ruimte vraagt om in te kleven,kan je één showcase in het werkboek plakken waar je het bundeltje in steekt. Je kan het werkboek eventueel indelen in 3 delen (biografie, techniek, toepassing).
 
-3. Je brengt structuur aan in de informatie en je begint te schrijven vanuit een persoonlijke inleiding.
+3. Je brengt structuur aan de informatie en je begint te schrijven vanuit een persoonlijke inleiding.
   * Hoe ben je tot deze titel gekomen?
   * Wat beweegt jou om grondig bezig te zijn met dit thema?
   * In welke zin is het voor jou een uitvinding?
@@ -44,10 +44,10 @@ a. Je schrijft een korte biografie over jouw mentor of uitvinder die aan de gron
   * Moest hij/zij iets overwinnen om met passie te werken?
   * Hoe belangrijk is/was deze uitvinding? 
   * Wat is er door deze uitvinding veranderd in de geschiedenis of welke invloed heeft deze uitvinding op mensen en hun omgeving gehad? 
-  * Hoe belangrijk uitvinding/uitvinder voor ons vandaag? 
-  * Waarom kijk jij op naar deze persoon?)
+  * Hoe belangrijk is de uitvinding/uitvinder voor ons vandaag? 
+  * Waarom kijk jij op naar deze persoon?
 
-b. je zoekt uit welke illustraties je kan gebruiken bij je biografie.
+b. Je zoekt uit welke illustraties je kan gebruiken bij je biografie.
 * Welke stijl van illustreren past bij jouw thema? 
 * Welke technieken heb je zelfs onder de knie en kan je dan ook zorgzaam en precies toepassen? 
 * Wees hierbij creatief en ga desnoods inspiratie zoeken in de bib.
@@ -86,7 +86,7 @@ Wat zijn de mogelijkheden?
 * Je gaat met de techniek aan de slag en creëert een resultaat van een praktische toepassing waarbij je iets nieuw uitvindt dat gebaseerd is op de technieken die je hebt besproken in het theoretische deel
 
 
-In jouw werkboek heb je goed bijgehouden hoe je de praktijk hebt opgebouwd. in de definitieve versie van het jaarwerk laat je dit zien aan de hand van foto's/tekeningen en een tekst die uitleg geeft over de opbouw.
+In jouw werkboek heb je goed bijgehouden hoe je de praktijk hebt opgebouwd. In de definitieve versie van het jaarwerk laat je dit zien aan de hand van foto's/tekeningen en een tekst die uitleg geeft over de opbouw.
 
 Om het jaarwerk te eindigen, schrijf je een nawoord (terugblik).
 
@@ -108,15 +108,15 @@ Hier vermeld je jouw voornaam en naam, klas, school, schooljaar en de opdracht (
 
 ### Inhoudstafel
 
-Je maakt aan de hand van de inhoud  jouw eigen inhoudstafel waar je de paginanummers bijzet. Hoofdtitels krijgen dus subtitels. ook specifike illustraties kan je vermelden in jouw inhoudstafel.
+Je maakt aan de hand van de inhoud  jouw eigen inhoudstafel waar je de paginanummers bijzet. Hoofdtitels krijgen dus subtitels. Ook specifike illustraties kan je vermelden in jouw inhoudstafel.
 
 ### Inhoud
 
-  * Voorwoord(of inleiding)
+  * Voorwoord (of inleiding)
   * Biografie
-  * Uitvinding(of techniek)
-  * Mijn toepassing(practisch deel)
-  * Nawoord(of terugblik)
+  * Uitvinding (of techniek)
+  * Mijn toepassing (practisch deel)
+  * Nawoord (of terugblik)
   * Bronvermeldingen
 
 Tijdens ICT- en PO lessen kan je steeds tips en begeleiding vragen rond lay-out en illustratie.
