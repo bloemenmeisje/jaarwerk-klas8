@@ -1,6 +1,9 @@
 # Linus Torvalds 
 
 ### Een verhaal over Linus, linux en Git
+
+![](figuren/Linus-Torvalds.jpg)
+
 ---
 
 ## Tips!
