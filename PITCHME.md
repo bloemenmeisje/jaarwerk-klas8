@@ -39,11 +39,9 @@
 ## Techniek - De basis van GIT
 
 - Een Git repository verkrijgen |
-  ```$ git init``` |
+- ```$ git init``` |
 - status van je bestanden |
-  ```
-  $ git status
+-  ```$ git status
   On branch master
-  nothing to commit, working tree clean
-  ``` |
+  nothing to commit, working tree clean``` |
 
