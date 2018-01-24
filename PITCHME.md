@@ -30,18 +30,16 @@
 
 ---
 
-## Git
+## Techniek - Git
 
 ![](figuren/github-social-coding.jpg)
 
 ---
 
-## Techniek - De basis van GIT
+## De basis van GIT
 
 - Een Git repository verkrijgen |
-- ```$ git init``` |
-- status van je bestanden |
--  ```$ git status
-  On branch master
-  nothing to commit, working tree clean``` |
+
+```$ git init```
+
 
