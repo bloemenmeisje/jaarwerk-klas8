@@ -38,16 +38,20 @@
 
 ## De basis van GIT
 
-- Een Git repository verkrijgen |
+Een Git repository verkrijgen
 
-```$ git init```
+```
+$ git init
+```
 
----
++++
 
 ## De basis van GIT
 
-- De status van je bestanden controleren |
+De status van je bestanden controleren
 
-```$ git status
+```
+$ git status
 On branch master
-nothing to commit, working tree clean```
+nothing to commit, working tree clean
+```
