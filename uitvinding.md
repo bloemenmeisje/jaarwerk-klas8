@@ -1,3 +1,5 @@
+[Home](README.md) | [Biografie](bio.md) | [Uitvinding](uitvinding.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md) |  [Presentatie](https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master?grs=github&t=moon)
+
 # De basis van Git
 
 ## Een Git repository verkrijgen
