@@ -42,4 +42,12 @@
 
 ```$ git init```
 
+---
 
+## De basis van GIT
+
+- De status van je bestanden controleren |
+
+```$ git status
+On branch master
+nothing to commit, working tree clean```
