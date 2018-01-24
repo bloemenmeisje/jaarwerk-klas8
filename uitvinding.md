@@ -12,11 +12,11 @@ Als je een kopie wilt van een bestaande Git repository, bijvoorbeeld een project
 
 ## De status van je bestanden controleren
 Het commando dat je voornamelijk zult gebruiken om te bepalen welk bestand zich in welke status bevindt is git status. Als je dit commando direct na het clonen uitvoert, dan zal je zoiets als het volgende zien:
-
+```
 $ git status
 On branch master
 nothing to commit, working tree clean
-
+```
 ## Nieuwe bestanden volgen (tracking)
 
 Om een nieuw bestand te beginnen te volgen (tracken), gebruik je het commando git add. Om een bestand te tracken, voer je dit uit:
