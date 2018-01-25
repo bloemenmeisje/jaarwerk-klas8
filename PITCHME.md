@@ -55,3 +55,30 @@ $ git status
 On branch master
 nothing to commit, working tree clean
 ```
+
++++
+
+## De basis van GIT
+
+Nieuwe bestanden volgen (tracking)
+
+```
+$ git add nieuwbestand
+
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   nieuwbestand
+```
+
++++
+
+## De basis van GIT
+
+wijzigingen committen
+
+```
+$ git commit -m "vertel hier wat je gedaan hebt"
+```
