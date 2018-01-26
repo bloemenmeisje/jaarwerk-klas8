@@ -32,7 +32,7 @@
 
 ## Techniek - Git
 
-![](figuren/github-social-coding.jpg)
+![](figuren/github-social-coding.resized.jpg)
 
 ---
 
