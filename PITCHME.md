@@ -82,3 +82,52 @@ wijzigingen committen
 ```
 $ git commit -m "vertel hier wat je gedaan hebt"
 ```
+
++++
+
+## De basis van GIT
+
+Bestanden verwijderen
+
+```
+$ git rm bestand03
+rm 'bestand03'
+```
+
++++
+
+## De basis van GIT
+
+Bestand verplaatsen of hernoemen
+
+```
+$ git mv bestand04 bestand07
+
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+
+        renamed:    bestand04 -> bestand07
+```
+
++++
+
+## De basis van GIT
+
+De commit geschiedenis bekijken
+
+```
+$ git log
+```
+
++++
+
+## De basis van GIT
+
+De commit geschiedenis bekijken
+
+```
+$ git log
+```
