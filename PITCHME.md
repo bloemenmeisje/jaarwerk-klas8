@@ -122,12 +122,4 @@ De commit geschiedenis bekijken
 $ git log
 ```
 
-+++
 
-## De basis van GIT
-
-De commit geschiedenis bekijken
-
-```
-$ git log
-```
