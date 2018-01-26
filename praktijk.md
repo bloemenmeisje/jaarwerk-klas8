@@ -1,3 +1,5 @@
+[Home](https://bloemenmeisje.github.io/jaarwerk-klas8/) | [Biografie](bio.md) | [Techniek](uitvinding.md) | [Praktijk](praktijk.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md) |  [Presentatie](https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master?grs=github&t=moon)
+
 # Een github account
 - https://guides.github.com/activities/hello-world/
 - https://help.github.com/
