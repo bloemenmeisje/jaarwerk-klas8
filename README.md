@@ -1,4 +1,4 @@
-[Home](README.md) | [Biografie](bio.md) | [Techniek](uitvinding.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md) |  [Presentatie](https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master?grs=github&t=moon)
+[Home](https://bloemenmeisje.github.io/jaarwerk-klas8/) | [Biografie](bio.md) | [Techniek](uitvinding.md) | [Praktijk](praktijk.md) | [Bronnen](bronnen.md) | [Opgave](opgave.md) |  [Presentatie](https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master?grs=github&t=moon)
 
 *gebaseerd op de originele mail van Linus Torvalds,Message-ID: 1991Aug25.205708.9541@<span></span>klaava.helsinki.fi gevonden op http://www.linfo.org/linus.html*
 
