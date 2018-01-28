@@ -1,6 +1,6 @@
 # Vragenlijst
 ### Naam :
-### Voor welke firme werkt U :
+### Voor welke firma werkt U :
 ### Wat is Uw functie/titel:
 
 1. Maakt U profesioneel gebruik van open Source
@@ -14,6 +14,15 @@
   - [ ] enkel op het werk
   - [ ] enkel thuis
   - [ ] ik maak geen gebruik van Linux
+ 
+ 1. Hoeveel maakt U gebruik van GIT
+  - [ ] voor bijna alles
+  - [ ] enkel als de klant het vraagt
+  - [ ] ik maak geen gebruiik van GIT
+  
+ 1. wat is volgens u het beste git commando
+  
+  - ...
   
 Waarvoor wordt linux voornamelijk gebruikt?
 
