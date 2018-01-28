@@ -25,7 +25,7 @@
   - [ ] enkel als de klant het vraagt
   - [ ] ik maak geen gebruiik van GIT
   
- 1. wat is volgens u het beste git commando
+ 1. wat is volgens u het leukste git commando
   
   - ...
   
