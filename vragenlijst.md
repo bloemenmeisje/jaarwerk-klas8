@@ -1,14 +1,20 @@
-* Naam :
-* Voor welke firme werkt U :
-* Wat is Uw functie/titel:
+# Vragenlijst
+### Naam :
+### Voor welke firme werkt U :
+### Wat is Uw functie/titel:
 
-- Maakt U profesioneel gebruik van open Source
+1. Maakt U profesioneel gebruik van open Source
   - [ ] altijd 
   - [ ] meestal 
   - [ ] soms 
   - [ ] nooit
 
-
+1. Maakt U gebruik van Linux, en waar? 
+  - [ ] overal (thuis en op het werk)
+  - [ ] enkel op het werk
+  - [ ] enkel thuis
+  - [ ] ik maak geen gebruik van Linux
+  
 Waarvoor wordt linux voornamelijk gebruikt?
 
 Hebt u linus torvalds ontmoet ? Zoja wat voor iemand is hij?
