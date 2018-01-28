@@ -3,10 +3,10 @@
 * Wat is Uw functie/titel:
 
 - Maakt U profesioneel gebruik van open Source
-[] altijd 
-[] meestal 
-[] soms 
-[] nooit
+  - [ ] altijd 
+  - [ ] meestal 
+  - [ ] soms 
+  - [ ] nooit
 
 
 Waarvoor wordt linux voornamelijk gebruikt?
