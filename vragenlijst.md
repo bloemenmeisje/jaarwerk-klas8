@@ -3,6 +3,11 @@
 ### Voor welke firma werkt U :
 ### Wat is Uw functie/titel:
 
+1. Kent U Linus Torvalds, en wat vind U van hem
+  - [ ] leuke kerel
+  - [ ] nerd
+  - [ ] dwaas
+
 1. Maakt U profesioneel gebruik van open Source
   - [ ] altijd 
   - [ ] meestal 
