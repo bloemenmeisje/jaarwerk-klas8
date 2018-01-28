@@ -1,6 +1,12 @@
-Naam:
-bedrijf/Firma:
-functie:
+* Naam :
+* Voor welke firme werkt U :
+* Wat is Uw functie/titel:
+
+- Maakt U profesioneel gebruik van open Source
+[] altijd 
+[] meestal 
+[] soms 
+[] nooit
 
 
 Waarvoor wordt linux voornamelijk gebruikt?
