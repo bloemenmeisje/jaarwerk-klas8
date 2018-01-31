@@ -4,7 +4,7 @@
 ### Voor welke firma werkt U :..............................
 ### Wat is uw taak :..............................
 
-1. Kent U Linus Torvalds, en zoja, wat vindt U van hem ?
+1. Kent u Linus Torvalds, en zoja, wat vindt U van hem ?
   - [ ] verstandig
   - [ ] echte nerd
   - [ ] een voorbeeld
@@ -14,13 +14,13 @@
   - [ ] ja
   - [ ] nee
 
-3. Wanneer maakt U gebruik van Linux? 
+3. Wanneer maakt u gebruik van Linux? 
   - [ ] overal (thuis en op het werk)
   - [ ] enkel op het werk
   - [ ] enkel thuis
   - [ ] ik maak geen gebruik van Linux
  
- 4. Gebruik U open Source programma's?
+ 4. Gebruik u open Source programma's?
   - [ ] altijd 
   - [ ] meestal 
   - [ ] soms 
@@ -33,7 +33,7 @@
   - [ ] omdat je er mee aan mag werken 
   - [ ] andere:
   
- 6. Hoeveel maakt U gebruik van GIT
+ 6. Hoeveel maakt u gebruik van GIT
   - [ ] voor bijna alles
   - [ ] enkel als de klant het vraagt
   - [ ] ik maak geen gebruik van GIT
