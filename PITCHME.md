@@ -122,4 +122,8 @@ De commit geschiedenis bekijken
 $ git log
 ```
 
+---
 
+## En verder
+
+blabla
