@@ -136,7 +136,26 @@ $ git branch
 
 ## Gebruik van versies in GIT
 
-een nieuwe versie aankamen
+een nieuwe versie maken
+
 ```
 $ git checkout -b nieuwe_versie
+```
+
++++
+
+## Gebruik van versies in GIT
+
+overschakelen tussen versies
+
+```
+$ git checkout andere_versie
+```
++++
+
+## Gebruik van versies in GIT
+
+terug naar de hoofdversie
+```
+$ git checkout master
 ```
