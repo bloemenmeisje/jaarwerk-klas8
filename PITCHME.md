@@ -124,6 +124,19 @@ $ git log
 
 ---
 
-## En verder
+## Gebruik van versies in GIT
 
-blabla
+de verschillende versies oplijsten
+
+```
+$ git branch
+```
+
++++
+
+## Gebruik van versies in GIT
+
+een nieuwe versie aankamen
+```
+$ git checkout -b nieuwe_versie
+```
