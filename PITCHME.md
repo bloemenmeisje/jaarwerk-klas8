@@ -1,6 +1,6 @@
 # Linus Torvalds 
 
-### Een verhaal over Linus, linux en Git
+### Een verhaal over Linus, Linux en Git
 
 ---
 
