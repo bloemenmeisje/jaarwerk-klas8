@@ -2,9 +2,6 @@ Persoonlijke inleiding
 ------------------
 
 Ik ben op het idee gekomen omdat mijn papa heel veel met linux bezig is, en ben regelmatig met hem meegeweest naar allerlei events, dat was altijd heel leuk. Ook de mensen daar zijn aardig.
-
-Wat beweegt jou om grondig bezig te zijn met dit thema ?
-
 Ik gebruik Linux op mijn computer, ik wilde weten wie heeft linux uitgevonden en vond het wel interesant om te weten te komen hoe dit alles in elkaar zat. bij het lezen over Linus, zag ik dat hij nog iets anders had uitgevonden, GIT, en is awt ik nu gebruik. Ook een fantastische uitvinding om samen te werken, ik vind het leuk om nieuwe dingen te leren op de computer.
 
 In welke zin is het voor jou een uitvinding?
