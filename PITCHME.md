@@ -158,4 +158,8 @@ $ git checkout andere_versie
 terug naar de hoofdversie
 ```
 $ git checkout master
+
+---
+
+## Vragen?
 ```
