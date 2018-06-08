@@ -1,5 +1,5 @@
-Persoonlijke inleiding
-------------------
+# Persoonlijke inleiding
+
 
 Ik ben op het idee gekomen omdat mijn papa heel veel met Linux bezig is, en ben regelmatig met hem mee geweest naar allerlei events, dat was altijd heel leuk. Ook de mensen daar zijn aardig.
 
