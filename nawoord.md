@@ -1,3 +1,5 @@
+# Nawoord
+
 ik vond het een leuk en interessant onderwerp. Ik had niet verwacht dat het zo eenvoudig was om zoveel tegelijkertijd uit te voeren.
 
 ik heb veel geleerd, op events,door te praten met collegas van mijn papa en door te verkennen wat kan met git.
