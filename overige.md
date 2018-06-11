@@ -2,8 +2,8 @@
 
 ### Overige bestanden
 
-* [Persoonlijke inleiding](https://github.com/bloemenmeisje/jaarwerk-klas8/blob/master/persoonlijke_inleiding.md)
+* [Persoonlijke inleiding](persoonlijke_inleiding.md)
 
-* [Nawoord](https://github.com/bloemenmeisje/jaarwerk-klas8/blob/master/nawoord.md)
+* [Nawoord](nawoord.md)
 
-* [Vragenlijst](https://github.com/bloemenmeisje/jaarwerk-klas8/blob/master/vragenlijst.md)
+* [Vragenlijst](vragenlijst.md)
