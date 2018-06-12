@@ -164,3 +164,13 @@ $ git checkout master
 
 # Vragen?
 
+---
+
+# waar vind je dit 
+
+https://github.com/bloemenmeisje/jaarwerk-klas8
+
+https://bloemenmeisje.github.io/jaarwerk-klas8/
+
+https://gitpitch.com/bloemenmeisje/jaarwerk-klas8/master?grs=github&t=sky
+
